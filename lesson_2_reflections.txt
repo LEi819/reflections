@@ -1,3 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates a repository but there is no commit in it.
 So we are able to make commit for all the files inside the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is like a buffer between working direcory and repository.
