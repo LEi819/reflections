@@ -13,3 +13,10 @@ When you want to create experimental versions or versions in different languages
 
 5.How do the diagrams help you visualize the branch structure?
 It points out any detached commits.
+
+6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It results in a new commit
+
+7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro:ease the jobs of the users
+con:may cause error. when different changes apply to the same part of the code, it is difficult for Git to choose which one to use.
