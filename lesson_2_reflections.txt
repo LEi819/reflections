@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates a repository but there is no commit in it.
+So we are able to make commit for all the files inside the repository.
