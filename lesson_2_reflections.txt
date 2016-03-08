@@ -10,3 +10,6 @@ After I make a logical change to a file in working directory, I will use command
 
 4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to create experimental versions or versions in different languages, branches would be helpful. 
+
+5.How do the diagrams help you visualize the branch structure?
+It points out any detached commits.
